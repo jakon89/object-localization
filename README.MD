@@ -32,10 +32,8 @@ Then go to http://localhost:8080/ and upload image. Result should be visible in 
 #### Demo
 
 ##### Input
-[logo]: demo/input.jpg "input"
+![result](demo/input.jpg)
 
 ##### Result
-[logo]: demo/result.jpg "result"
-
-
+![result](demo/result.jpg)
 
